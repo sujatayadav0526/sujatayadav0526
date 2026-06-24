@@ -42,7 +42,9 @@ Currently, I am strengthening my skills through academic coursework, personal pr
 ## Education
 
 **Bachelor of Computer Applications (BCA)**
+
 Institute of Professional Excellence and Management (IPEM),
+
 Ghaziabad (2024 – 2027)
 
 ---
