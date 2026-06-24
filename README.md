@@ -1,66 +1,71 @@
-👋 Hi, I'm Sujata Kumari
+# Hi, I'm Sujata Kumari
 
-🎓 BCA Student (2024–2027)
-📍 Ghaziabad, Uttar Pradesh, India
-💻 Aspiring Web Developer & Data Analyst
+### BCA Student | Aspiring Data Analyst & Web Developer
 
-🚀 About Me
+I am a Bachelor of Computer Applications (BCA) student with a growing interest in Data Analytics and Web Development. I enjoy working with data, building responsive web applications, and exploring technologies that solve real-world problems.
 
-I am a Computer Applications student currently building my skills in web development and data analytics.
-I enjoy creating small projects using HTML, CSS, JavaScript and exploring data insights using Python and Power BI.
+Currently, I am strengthening my skills through academic coursework, personal projects, and continuous hands-on learning in data analysis, visualization, and front-end development.
 
-I am focused on improving my practical skills by building real-world projects and learning Git & GitHub.
+---
 
-🛠️ Skills
+## Technical Skills
 
-Frontend Development:
+### Programming Languages
 
-HTML
-CSS
-JavaScript (Basics)
+* Python
+* C
+* JavaScript (Basic)
 
-Programming Languages:
+### Web Development
 
-C
-C++
-Python (Basics)
+* HTML
+* CSS
+* Responsive Web Design
 
-Tools & Platforms:
+### Data Analytics & Visualization
 
-Git & GitHub
-VS Code
-Power BI (Basic)
-💻 Projects
-🧮 Calculator Web App
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* Microsoft Excel
 
-A simple calculator built using HTML, CSS, and JavaScript with basic arithmetic operations.
+### Tools & Technologies
 
-🎬 Netflix Login Page Clone
+* Git
+* GitHub
+* Visual Studio Code
 
-A UI clone of Netflix login page focusing on layout design and responsive styling.
+---
 
-🎟️ IRCTC Login Page UI
+## Education
 
-Recreated IRCTC login page during learning phase to improve frontend design skills.
+**Bachelor of Computer Applications (BCA)**
+Institute of Professional Excellence and Management (IPEM),
+Ghaziabad (2024 – 2027)
 
-📊 IPL Data Analysis Project
+---
 
-Performed basic analysis on IPL dataset using Python/Power BI to find insights like team performance and player statistics.
+## Current Learning
 
-📈 Current Learning
-Advanced JavaScript
-Responsive Web Design
-Data Analysis using Python
-Git & GitHub workflow
-🎯 Goals
-Become a Full Stack Web Developer
-Build strong portfolio projects
-Get internship experience in development or data analytics
-📫 Contact Me
+* Python Programming
+* Data Analysis & Visualization
+* Power BI Dashboard Development
+* Git & GitHub
+* Front-End Web Development
 
-📧 Email: sujatayadav0526@gmail.com
-🔗 GitHub: https://github.com/sujatayadav0526-bca
+---
 
-⚡ Fun Fact
+## Professional Goal
 
-I enjoy turning simple ideas into real working websites 🚀
+Seeking internship opportunities where I can apply and enhance my skills in Data Analytics and Web Development while contributing to meaningful projects and gaining industry experience.
+
+---
+
+## Contact
+
+📧 Email: [sujatayadav0526@gmail.com](mailto:sujatayadav0526@gmail.com)
+
+💻 GitHub: github.com/sujatayadav0526-bca
+
